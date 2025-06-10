@@ -17,7 +17,7 @@ A beautiful, responsive weather application that provides real-time weather info
 ## 🚀 Live Demo
 
 Check out the live version here:  
-👉 [https://akshaysainidev.github.io/Weather-App/]()
+👉 [https://akshaysainidev.github.io/Weather-App/](https://akshaysainidev.github.io/Weather-App/)
 
 ## 🖼 Screenshots
 
